@@ -1,0 +1,14 @@
+/Users/vunq/Desktop/CS_Basics/CS_Classes/bin/Debug/net9.0/CS_Classes
+/Users/vunq/Desktop/CS_Basics/CS_Classes/bin/Debug/net9.0/CS_Classes.deps.json
+/Users/vunq/Desktop/CS_Basics/CS_Classes/bin/Debug/net9.0/CS_Classes.runtimeconfig.json
+/Users/vunq/Desktop/CS_Basics/CS_Classes/bin/Debug/net9.0/CS_Classes.dll
+/Users/vunq/Desktop/CS_Basics/CS_Classes/bin/Debug/net9.0/CS_Classes.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/CS_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/CS_Classes.AssemblyInfoInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/CS_Classes.AssemblyInfo.cs
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/CS_Classes.csproj.CoreCompileInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/CS_Classes.dll
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/refint/CS_Classes.dll
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/CS_Classes.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/CS_Classes.genruntimeconfig.cache
+/Users/vunq/Desktop/CS_Basics/CS_Classes/obj/Debug/net9.0/ref/CS_Classes.dll

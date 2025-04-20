@@ -1,0 +1,14 @@
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/bin/Debug/net9.0/CS_NumberToText
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/bin/Debug/net9.0/CS_NumberToText.deps.json
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/bin/Debug/net9.0/CS_NumberToText.runtimeconfig.json
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/bin/Debug/net9.0/CS_NumberToText.dll
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/bin/Debug/net9.0/CS_NumberToText.pdb
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/CS_NumberToText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/CS_NumberToText.AssemblyInfoInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/CS_NumberToText.AssemblyInfo.cs
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/CS_NumberToText.csproj.CoreCompileInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/CS_NumberToText.dll
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/refint/CS_NumberToText.dll
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/CS_NumberToText.pdb
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/CS_NumberToText.genruntimeconfig.cache
+/Users/vunq/Desktop/CS_Basics/CS_NumberToText/obj/Debug/net9.0/ref/CS_NumberToText.dll

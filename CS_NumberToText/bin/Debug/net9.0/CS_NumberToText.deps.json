@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CS_NumberToText/1.0.0": {
+        "runtime": {
+          "CS_NumberToText.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS_NumberToText/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

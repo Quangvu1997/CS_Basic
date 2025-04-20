@@ -1,0 +1,14 @@
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/CS_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/CS_Lambda.AssemblyInfoInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/CS_Lambda.AssemblyInfo.cs
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/CS_Lambda.csproj.CoreCompileInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/bin/Debug/net9.0/CS_Lambda
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/bin/Debug/net9.0/CS_Lambda.deps.json
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/bin/Debug/net9.0/CS_Lambda.runtimeconfig.json
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/bin/Debug/net9.0/CS_Lambda.dll
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/bin/Debug/net9.0/CS_Lambda.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/CS_Lambda.dll
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/refint/CS_Lambda.dll
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/CS_Lambda.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/CS_Lambda.genruntimeconfig.cache
+/Users/vunq/Desktop/CS_Basics/CS_Lambda/obj/Debug/net9.0/ref/CS_Lambda.dll

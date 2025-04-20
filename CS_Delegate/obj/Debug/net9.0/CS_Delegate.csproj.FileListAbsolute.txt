@@ -1,0 +1,14 @@
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/bin/Debug/net9.0/CS_Delegate
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/bin/Debug/net9.0/CS_Delegate.deps.json
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/bin/Debug/net9.0/CS_Delegate.runtimeconfig.json
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/bin/Debug/net9.0/CS_Delegate.dll
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/bin/Debug/net9.0/CS_Delegate.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/CS_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/CS_Delegate.AssemblyInfoInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/CS_Delegate.AssemblyInfo.cs
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/CS_Delegate.csproj.CoreCompileInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/CS_Delegate.dll
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/refint/CS_Delegate.dll
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/CS_Delegate.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/CS_Delegate.genruntimeconfig.cache
+/Users/vunq/Desktop/CS_Basics/CS_Delegate/obj/Debug/net9.0/ref/CS_Delegate.dll

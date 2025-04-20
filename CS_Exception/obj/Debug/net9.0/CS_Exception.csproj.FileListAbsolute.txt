@@ -1,0 +1,14 @@
+/Users/vunq/Desktop/CS_Basics/CS_Exception/bin/Debug/net9.0/CS_Exception
+/Users/vunq/Desktop/CS_Basics/CS_Exception/bin/Debug/net9.0/CS_Exception.deps.json
+/Users/vunq/Desktop/CS_Basics/CS_Exception/bin/Debug/net9.0/CS_Exception.runtimeconfig.json
+/Users/vunq/Desktop/CS_Basics/CS_Exception/bin/Debug/net9.0/CS_Exception.dll
+/Users/vunq/Desktop/CS_Basics/CS_Exception/bin/Debug/net9.0/CS_Exception.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/CS_Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/CS_Exception.AssemblyInfoInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/CS_Exception.AssemblyInfo.cs
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/CS_Exception.csproj.CoreCompileInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/CS_Exception.dll
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/refint/CS_Exception.dll
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/CS_Exception.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/CS_Exception.genruntimeconfig.cache
+/Users/vunq/Desktop/CS_Basics/CS_Exception/obj/Debug/net9.0/ref/CS_Exception.dll

@@ -1,0 +1,14 @@
+/Users/vunq/Desktop/CS_Basics/CS_Methods/bin/Debug/net9.0/CS_Methods
+/Users/vunq/Desktop/CS_Basics/CS_Methods/bin/Debug/net9.0/CS_Methods.deps.json
+/Users/vunq/Desktop/CS_Basics/CS_Methods/bin/Debug/net9.0/CS_Methods.runtimeconfig.json
+/Users/vunq/Desktop/CS_Basics/CS_Methods/bin/Debug/net9.0/CS_Methods.dll
+/Users/vunq/Desktop/CS_Basics/CS_Methods/bin/Debug/net9.0/CS_Methods.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/CS_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/CS_Methods.AssemblyInfoInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/CS_Methods.AssemblyInfo.cs
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/CS_Methods.csproj.CoreCompileInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/CS_Methods.dll
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/refint/CS_Methods.dll
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/CS_Methods.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/CS_Methods.genruntimeconfig.cache
+/Users/vunq/Desktop/CS_Basics/CS_Methods/obj/Debug/net9.0/ref/CS_Methods.dll

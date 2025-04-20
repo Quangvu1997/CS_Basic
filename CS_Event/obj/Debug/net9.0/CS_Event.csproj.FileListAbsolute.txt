@@ -1,0 +1,14 @@
+/Users/vunq/Desktop/CS_Basics/CS_Event/bin/Debug/net9.0/CS_Event
+/Users/vunq/Desktop/CS_Basics/CS_Event/bin/Debug/net9.0/CS_Event.deps.json
+/Users/vunq/Desktop/CS_Basics/CS_Event/bin/Debug/net9.0/CS_Event.runtimeconfig.json
+/Users/vunq/Desktop/CS_Basics/CS_Event/bin/Debug/net9.0/CS_Event.dll
+/Users/vunq/Desktop/CS_Basics/CS_Event/bin/Debug/net9.0/CS_Event.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/CS_Event.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/CS_Event.AssemblyInfoInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/CS_Event.AssemblyInfo.cs
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/CS_Event.csproj.CoreCompileInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/CS_Event.dll
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/refint/CS_Event.dll
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/CS_Event.pdb
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/CS_Event.genruntimeconfig.cache
+/Users/vunq/Desktop/CS_Basics/CS_Event/obj/Debug/net9.0/ref/CS_Event.dll
