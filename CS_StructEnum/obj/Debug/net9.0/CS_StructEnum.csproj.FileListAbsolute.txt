@@ -1,0 +1,15 @@
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/bin/Debug/net9.0/CS_StructEnum
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/bin/Debug/net9.0/CS_StructEnum.deps.json
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/bin/Debug/net9.0/CS_StructEnum.runtimeconfig.json
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/bin/Debug/net9.0/CS_StructEnum.dll
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/bin/Debug/net9.0/CS_StructEnum.pdb
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/CS_StructEnum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/CS_StructEnum.AssemblyInfoInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/CS_StructEnum.AssemblyInfo.cs
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/CS_StructEnum.csproj.CoreCompileInputs.cache
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/CS_StructEnum.sourcelink.json
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/CS_StructEnum.dll
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/refint/CS_StructEnum.dll
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/CS_StructEnum.pdb
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/CS_StructEnum.genruntimeconfig.cache
+/Users/vunq/Desktop/CS_Basics/CS_StructEnum/obj/Debug/net9.0/ref/CS_StructEnum.dll
